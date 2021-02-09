@@ -1,7 +1,7 @@
 github.com/BurntSushi/toml v0.3.1 h1:WXkYYl6Yr3qBf1K79EBnL4mak0OimBfB0XUf9Vl28OQ=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/Julusian/godocdown v0.0.0-20170816220326-6d19f8ff2df8/go.mod h1:INZr5t32rG59/5xeltqoCJoNY7e5x/3xoY9WSWVWg74=
-github.com/PuerkitoBio/goquery v1.6.0/go.mod h1:GsLWisAFVj4WgDibEWF4pvYnkVQBpKBKeU+7zCJoLcc=
+github.com/PuerkitoBio/goquery v1.6.1/go.mod h1:GsLWisAFVj4WgDibEWF4pvYnkVQBpKBKeU+7zCJoLcc=
 github.com/andybalholm/cascadia v1.1.0/go.mod h1:GsXiBklL0woXo1j/WYWtSYYC4ouU9PqHO0sqidkEA4Y=
 github.com/cenkalti/backoff/v4 v4.1.0 h1:c8LkOFQTzuO0WBM/ae5HdGQuZPfPxp7lqBRwQRm4fSc=
 github.com/cenkalti/backoff/v4 v4.1.0/go.mod h1:scbssz8iZGpm3xbr14ovlUdkxfGXNInqkPWOWmG2CLw=
@@ -15,13 +15,13 @@ github.com/elazarl/go-bindata-assetfs v1.0.1/go.mod h1:v+YaWX3bdea5J/mo8dSETolEo
 github.com/go-bindata/go-bindata v3.1.2+incompatible/go.mod h1:xK8Dsgwmeed+BBsSy2XTopBn/8uK2HWuGSnA11C3Joo=
 github.com/go-openapi/inflect v0.19.0/go.mod h1:lHpZVlpIQqLyKwJ4N+YSc9hchQy/i12fJykb83CRBH4=
 github.com/google/renameio v0.1.0/go.mod h1:KWCgfxg9yswjAJkECMjeO8J8rahYeXnNhOm40UhjYkI=
-github.com/gotd/getdoc v0.4.0/go.mod h1:AjLjQ5gdmIptXdjv6lYPHShv5f/dm/poa9wx3Kj/OdM=
+github.com/gotd/getdoc v0.6.0/go.mod h1:6hb7xxoTyjm+v3ZehmKlOiv6Zfodoff36wEhNqrSP+c=
 github.com/gotd/ige v0.1.5 h1:qITql4hZpqPM/DSeO5IVlxzXJxrs4ZZiKRwPif2K76U=
 github.com/gotd/ige v0.1.5/go.mod h1:LbvqjUuGELVuHcKjfJZ2NPNzegICQU4eqrPAkXy0nTs=
 github.com/gotd/neo v0.1.1 h1:R0+UERZZubPcaQbA0sR6n2EV8uy6tt/0SpfUlKfQq+U=
 github.com/gotd/neo v0.1.1/go.mod h1:9A2a4bn9zL6FADufBdt7tZt+WMhvZoc5gWXihOPoiBQ=
-github.com/gotd/td v0.21.2 h1:8xwEyOUt8iN/Bew32Sh75DdXO3BJUthwHhrKtsq62MY=
-github.com/gotd/td v0.21.2/go.mod h1:zn+ydzY4o4oHDazZTmpcYbUlKfEflI/Gjk4pdt93kQ8=
+github.com/gotd/td v0.23.0 h1:gDTXouM0FYNzo5n8PgfRfPukspYy8Sn9L0fK9pdzbFw=
+github.com/gotd/td v0.23.0/go.mod h1:NdtnKGilDWADXHjCOS475mJ8vdkIkt+un7Un2wqt6t8=
 github.com/gotd/tl v0.3.0/go.mod h1:9xGV9pH5N+LDoNmbeuOor9AjJaQzlj4KP5EguI1LMM8=
 github.com/gotd/xor v0.1.0/go.mod h1:ZTmdgqf6SOHder8/MFp9CNkXIadzID5lIiaZxRZICH0=
 github.com/gotd/xor v0.1.1 h1:LSPEeuf7noTo4fi4PrEsAaWXOSwjsY2e+IINPiR+c7s=
