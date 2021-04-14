@@ -3,7 +3,7 @@ module github.com/tdakkota/porftgbot
 go 1.15
 
 require (
-	github.com/gotd/td v0.25.0
+	github.com/gotd/td v0.35.0
 	github.com/stretchr/testify v1.7.0
 	github.com/urfave/cli/v2 v2.3.0
 	go.uber.org/zap v1.16.0
